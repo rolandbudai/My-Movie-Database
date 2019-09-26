@@ -1,5 +1,6 @@
 // Create add movies function
     //List is for checking
+
 let list = [];
 i = localStorage.length;
 
