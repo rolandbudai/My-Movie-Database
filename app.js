@@ -27,7 +27,7 @@ addMovieWatched = function () {
 
     //reset input field
     document.getElementById("input-watched-movie").value = "";
-    location.reload();
+    location.reload(); 
 
 };
 
